@@ -53,7 +53,7 @@ I enjoy working with real-world datasets, cleaning and analyzing data, building 
 
 ## 📌 Featured Projects
 
-### 📈 StockVision
+### 📈 StockVision  
 
 **Stock Market Analytics & Visualization Platform**
 
