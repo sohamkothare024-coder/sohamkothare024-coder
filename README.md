@@ -80,6 +80,10 @@ I enjoy working with real-world datasets, cleaning and analyzing data, building 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### ☁️ Cloud
+
+![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ## 📌 Featured Projects
 
 ### 📈 StockVision  
