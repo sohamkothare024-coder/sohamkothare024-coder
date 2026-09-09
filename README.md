@@ -71,11 +71,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sohamkothare024-coder&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkothare024-coder&layout=compact&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkothare024-coder&hide_border=true" />
 </p>
