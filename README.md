@@ -70,6 +70,11 @@
 
 ---
 
+### 🧩 LeetCode Stats
+<p align="center"> <a href="https://leetcode.com/u/sohamkothare/"><img src="https://leetcard.jacoblin.cool/sohamkothare" alt="Soham's LeetCode Stats" /></a> </p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkothare024-coder&hide_border=true" />
