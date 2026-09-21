@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Soham Kothare 👋</h1>
-<h3 align="center">Aspiring Data Analyst / Data Scientist | Turning raw data into decisions</h3>
+<h3 align="center">Aspiring SOC Analyst | Networking & Cybersecurity Fundamentals | Python, SQL</h3>
 
 <p align="center">
-  🎓 B.Sc. IT (Mumbai University), 2026 &nbsp;|&nbsp; 📍 Mumbai, India &nbsp;|&nbsp; 📊 Data Analytics & Data Science
+  🎓 B.Sc. IT (Mumbai University), 2026 &nbsp;|&nbsp; 📍 Mumbai, India &nbsp;|&nbsp; 🛡️ Security Operations & Data Analysis
 </p>
 
 <p align="center">
@@ -12,17 +12,24 @@
 
 ---
 
-### 🧠 About Me
+### 🛡️ About Me
 
-- 🔭 Currently building a portfolio of end-to-end data projects — from data collection to dashboards
-- 📈 Focused on **Data Analytics & Data Science**, actively applying for fresher/entry-level roles
-- 🧰 Comfortable across the stack: Python → SQL → Excel/Power BI → visualization → basic ML
-- 🌱 Currently sharpening statistical analysis and machine learning fundamentals
-- ⚡ Fun fact: I like combining automation with analytics — my projects tend to update themselves
+- 🔭 Building hands-on security operations experience — log analysis, alert triage, and detection fundamentals
+- 🎓 Cyber Security (Autonomous) certified, with practical exposure gained during the program
+- 📊 Bring a strong analytical foundation from data projects — pattern detection, anomaly spotting, structured reporting — directly transferable to SOC log analysis and incident documentation
+- 🧰 Comfortable across networking fundamentals, Python, SQL, and data tooling
+- 🌱 Currently sharpening SIEM fundamentals and security frameworks (MITRE ATT&CK, Cyber Kill Chain)
+- 🎯 Actively applying for entry-level SOC Analyst / Cybersecurity Analyst roles
 
 ---
 
 ### 🛠️ Tech Stack
+
+**Security & Networking Fundamentals**
+<p>
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%2C%20DNS%2C%20Ports-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cyber_Security-Certified-2E7D32?style=flat-square&logo=shield&logoColor=white" />
+</p>
 
 **Languages & Querying**
 <p>
@@ -57,21 +64,33 @@
 
 ---
 
+### 🎓 Certifications
+
+- 🛡️ **Cyber Security (Autonomous)** — Hirabhai Butala Vicharmanch, Sep 2024 (hands-on component)
+- 💻 **NIELIT CCC** (Course on Computer Concepts) — Jul 2023
+- 📊 **Data Warehouse Certification** — Great Learning
+- 📈 **Data Analytics Certificate** — TuteDude
+
+---
+
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 📈 **[StockVision](https://github.com/sohamkothare024-coder/StockVision)** | Interactive stock market dashboard — automated daily data fetch, EDA, technical indicators, and dynamic charts, with a GitHub Actions pipeline that keeps the dataset self-updating | `Python` `Pandas` `Plotly` `Streamlit` `scikit-learn` `GitHub Actions` |
-| 📊 **[Sales Analytics Dashboard](#)** | Interactive BI dashboard analyzing sales performance and business KPIs with dynamic reports and visualizations | `Power BI` `SQL` `Excel` |
-| 🧹 **[ExcelCleaner](https://github.com/sohamkothare024-coder/ExcelCleaner)** | Utility for automated cleaning and processing of messy Excel files | `Python` `Pandas` `OpenPyXL` |
-| 🏆 **[BGMI Esports Point Tracker](https://github.com/sohamkothare024-coder/Bgmi-Esports-tournament-tracker)** | Tournament management system tracking per-match and final point tables, team standings, and MVPs | `Python` |
+| Project | Description | Relevance | Stack |
+|---|---|---|---|
+| 📈 **[StockVision](https://github.com/sohamkothare024-coder/StockVision)** | Automated pipeline that fetches, processes, and monitors daily stock data, with a self-updating GitHub Actions pipeline and interactive dashboard | Demonstrates automated data monitoring and anomaly spotting — the same pattern used in log/alert monitoring | `Python` `Pandas` `Plotly` `Streamlit` `scikit-learn` `GitHub Actions` |
+| 🧹 **[ExcelCleaner](https://github.com/sohamkothare024-coder/ExcelCleaner)** | Automated cleaning and structuring of messy raw data files | Shows structured data triage — a core SOC skill applied to log/report hygiene | `Python` `Pandas` `OpenPyXL` |
+| 📊 **[Sales Analytics Dashboard](#)** | Interactive BI dashboard analyzing business KPIs with dynamic reports | Reporting and visualization skills applicable to SOC metrics/dashboards | `Power BI` `SQL` `Excel` |
+| 🏆 **[BGMI Esports Point Tracker](https://github.com/sohamkothare024-coder/Bgmi-Esports-tournament-tracker)** | Tournament management system tracking match and final point tables | Structured record-keeping and rule-based tracking logic | `Python` |
 | ✅ **[TODO App](https://github.com/sohamkothare024-coder/Todo-app)** | Lightweight task management app | `Python` |
 | 🧮 **[Calculator Web App](https://github.com/sohamkothare024-coder/calculator-website)** | Simple browser-based calculator | `HTML` `CSS` `JavaScript` |
+
+> 🔜 **Coming soon:** a dedicated SOC/security lab repo — SIEM alert triage, log analysis exercises, and MITRE ATT&CK-mapped detection notes.
 
 ---
 
 ### 🧩 LeetCode Stats
 <p align="center"> <a href="https://leetcode.com/u/sohamkothare/"><img src="https://leetcard.jacoblin.cool/sohamkothare" alt="Soham's LeetCode Stats" /></a> </p>
+
 ---
 
 ### 📫 Let's Connect
